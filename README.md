@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Morse Decoder
+# MY ENUMERABLE
 
 This is an educational project to create a class MyList and a module MyEnumerable using Ruby programming language. The module MyEnumerable will implement a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html).
 
